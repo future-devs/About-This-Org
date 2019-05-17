@@ -1,5 +1,5 @@
 # About-This-Org
-This repo describes the workflow of our organizations
+This repo holds the detail regarding Future Devs.
 ### Owner:
 1. Anubhav Sinha
 2. Keshav Bathla
