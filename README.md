@@ -1,5 +1,10 @@
 # About-This-Org
 This repo describes the workflow of our organizations
-Owner:
+## Owner:
 ### Anubhav Sinha
 ### Keshav Bathla
+## Maintainers:
+### Kaushal Bhansali
+### Siddharth Batra
+
+
